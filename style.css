@@ -38,3 +38,14 @@ body {
     height:91px ;
     width: 1440px;
 }
+
+#card-primarie{
+    padding-top: 50px;
+}
+
+#card-secondarie{
+    position: absolute;
+    width: 1440px;
+    height: 577px;
+    background-color: #4971FF;
+}
