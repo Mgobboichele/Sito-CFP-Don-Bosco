@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Righteous&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#fascietta-alta{
+    font-size: 14px;
+    padding-top: 10px;
+    color: white;
+    text-align: right;
+}
+
+#fascietta-alta a{
+    color: white;
+    font-family: 'Montserrat', sans-serif; 
+    text-decoration: none;
+
+}
+
+#rectangle{
+    background-color:#4971FF;
+    height: 36px;
+}
+
+#laboratori {
+    padding-top: 40px;
+    color: #4971FF;
+    font-family: 'Righteous', cursive;
+    font-size: 16px;
+}
+
+#laboratori a {
+    text-decoration: none;
+}
+
+#container-logo{
+    height:91px ;
+    width: 1440px;
+}
